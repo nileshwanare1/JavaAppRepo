@@ -11,7 +11,7 @@
             <table border="0" width="30%" cellpadding="3">
                 <thead>
                     <tr>
-                        <th colspan="2">Login Page for user on 20/08/23</th>
+                        <th colspan="2">Login Page for Java App Deployment using Beanstalk and code Pipeline on 09/04/2026</th>
                     </tr>
                 </thead>
                 <tbody>
